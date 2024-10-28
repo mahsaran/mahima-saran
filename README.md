@@ -1,6 +1,4 @@
-# mahsaran
-My Profile
-Hello there 👋
+# Hello there 👋
 
 😄 Pronouns: she/her
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahima-saran/) | [Instagram](https://www.instagram.com/mahi.ista/) | [YouTube](https://www.youtube.com/@mahima.s) | [Dev.to](https://dev.to/mahsaran))
